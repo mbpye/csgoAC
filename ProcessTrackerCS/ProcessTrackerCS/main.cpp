@@ -18,7 +18,7 @@ MemMan MemClass;
 int Protect_process();
 
 
-int PID = MemClass.getProcess("GitHubDesktop.exe"); // or your Game
+int PID = MemClass.getProcess("csgo.exe"); // or your Game
 
 
 ofstream fout("dll_list.txt", ios::app);
