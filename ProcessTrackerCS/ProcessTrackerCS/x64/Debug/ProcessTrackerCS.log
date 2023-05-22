@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\main.cpp(39,9): warning C4101: cbNeeded: неиспользованная локальная переменная
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\main.cpp(38,11): warning C4101: hMods: неиспользованная локальная переменная
+  MemMan.cpp
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(24,8): error C2664: "int strcmp(const char *,const char *)": невозможно преобразовать аргумент 1 из "WCHAR [260]" в "const char *"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(24,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\ucrt\string.h(100,13): message : см. объявление "strcmp"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(24,8): message : при попытке сопоставить список аргументов "(WCHAR [260], const char *)"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(43,8): error C2664: "int strcmp(const char *,const char *)": невозможно преобразовать аргумент 1 из "WCHAR [256]" в "const char *"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(43,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\ucrt\string.h(100,13): message : см. объявление "strcmp"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(43,8): message : при попытке сопоставить список аргументов "(WCHAR [256], const char *)"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(46,32): warning C4311: приведение типов: усечение указателя из "HMODULE" в "DWORD"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(46,32): warning C4302: приведение типов: усечение из "HMODULE" к "DWORD"
+C:\Users\mbpye\OneDrive\Документы\GitHub\csgoAC\ProcessTrackerCS\ProcessTrackerCS\MemMan.cpp(56,40): warning C4312: приведение типов: преобразование из "DWORD" в "BYTE *" большего размера
+  Создание кода...
