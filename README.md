@@ -5,7 +5,7 @@
 .
 .
 
-* Using: kernel32 | cheking uploading DLL to process | set MAX privilege
+* Using:  cheking uploading DLL to process | set MAX privilege
 
 
 ver 0.1
